@@ -1,13 +1,23 @@
-# React + Vite
+# 🚀 React 19 + Tailwind CSS v4 Starter Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal and modern boilerplate to kickstart your React 19 projects with Tailwind CSS v4 (latest). Lightweight, fast, and fully customizable.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Getting Started
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# react19-tw4-starter
+
+### 1. Clone this repo
+```
+npx degit Al-Amin49/react19-tw4-starter#main <YOUR_PROJECT_NAME>
+
+```
+### 2. Install dependencies and run
+```
+cd <YOUR_PROJECT_NAME>
+npm install
+npm run dev
+
+
+
+
